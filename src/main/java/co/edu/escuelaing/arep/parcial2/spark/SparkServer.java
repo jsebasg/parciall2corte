@@ -35,7 +35,7 @@ public class SparkServer
             json.put("operation", "log" ); 
             json.put("input", value ); 
             json.put("output" , calculator.asin(value) ); 
-            return calculator.asin(value);
+            return json;
         });
     }
 
