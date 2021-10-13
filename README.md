@@ -36,7 +36,7 @@ $ docker run -d -p 5000:6000 --name parcial2corte parcial2corte
  ```
 
 link aws 
-http://ec2-3-86-34-100.compute-1.amazonaws.com:5000 (añada la extencion /*log o asin* ?value= *numero* al final para la correcta ejecucion)
+http://ec2-3-86-34-100.compute-1.amazonaws.com:5000 (añada la extencion /*log o /*asin ?value= *numero* al final para la correcta ejecucion)
 
 
 ## Construido con
